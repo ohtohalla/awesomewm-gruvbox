@@ -21,6 +21,6 @@ be available on `$PATH` (though not necessary for function):
 ## Setup
 Install in the following path:
 ```
-git clone https://github.com/cole-bishop/awesomewm-gruvbox.git $HOME/.config/awesome
+git clone https://github.com/ohtohalla/awesomewm-gruvbox.git $HOME/.config/awesome
 ```
-![alt screenshot](https://raw.githubusercontent.com/cole-bishop/awesomewm-gruvbox/master/screenshot.png)
+![alt screenshot](https://raw.githubusercontent.com/ohtohalla/awesomewm-gruvbox/master/screenshot.png)
